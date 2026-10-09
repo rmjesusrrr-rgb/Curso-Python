@@ -22,5 +22,6 @@ Repositorio con los programas prácticos, apuntes, resumen y material del curso 
 ---
 
 ## 📖 Resumen y Teoría
-Para ver el resumen teórico completo de todos los módulos, consulta el archivo:
+Para ver el resumen teórico completo de todos los módulos y apuntes, consulta:
 * [`Resumen_Curso_Python.md`](Resumen_Curso_Python.md)
+* [`Apuntes.pdf`](Apuntes.pdf): Documento PDF con los apuntes del curso.
